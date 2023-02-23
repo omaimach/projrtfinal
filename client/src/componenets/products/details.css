@@ -1,0 +1,6 @@
+.detail {
+    border: 20px black solid;
+    border-radius: 50px;
+    margin: 15% ;
+    cursor: pointer;
+}

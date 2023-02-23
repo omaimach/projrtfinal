@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Yellowtail&display=swap');
+
+.nav {
+    top: 0;
+    position:fixed;
+    z-index: 10;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+     height: 12vh;
+    align-items: center;
+    background: url(https://th.bing.com/th/id/OIP.XlEH4flWikY9YfnsilDOwQHaDt?pid=ImgDet&rs=1);
+    
+    
+  }
+  .nav > span {
+    color: rgb(215, 33, 51);
+    margin-left: 2%;
+    font-size: xx-large;
+    font-family: Dancing Script;
+  }
+  
+  #logo {
+    color: rgb(224, 14, 98);
+    text-decoration: double;
+  }
+  
+  .links {
+    width: 30%;
+    margin-right: 2%;
+    display: flex;
+    justify-content: space-around;
+    text-size-adjust: 50px;
+    font-size-adjust: inherit;
+    
+  }
+  
+  .link {
+    color: rgb(220, 43, 73);
+    text-decoration: none;
+    text-size-adjust: 50%;
+    text-decoration: greenyellow;
+
+  }
+  
+  .link:hover {
+    color: rgb(66, 22, 64);
+    text-decoration: double;
+  }

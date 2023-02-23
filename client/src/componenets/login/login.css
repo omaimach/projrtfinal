@@ -1,0 +1,29 @@
+.login{
+    margin: 10% 50% 10% 0%;
+       
+}
+ .lis{
+    margin-top: 50%;
+ }
+ .list {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+    margin-bottom: 20%;
+    margin-top: 50%;
+  }
+
+  .card {
+    border: 2px solid black;
+    border-radius: 50px;
+    margin: 20%;
+  }
+  .image{
+    border: 20px solid black;
+  }
+  
+  .card:hover {
+    background-color: rgb(58, 43, 121);
+    cursor: pointer;
+  } 
+  
